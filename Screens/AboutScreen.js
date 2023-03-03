@@ -5,7 +5,7 @@ import Header from '../Common/Header';
 export default function AboutScreen({ navigation }) {
     return (
         <Box flex={1} bg="#8287af">
-            <Header></Header>
+            <Header />
             <Text>Open up App.js to start working on your app!</Text>
         </Box>
     )
